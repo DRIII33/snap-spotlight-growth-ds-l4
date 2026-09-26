@@ -97,8 +97,3 @@ The observed evidence supports stopping further simulated exposure under the por
 ## Portfolio Disclaimer
 
 All data, treatment effects, user behavior, guardrails, and rollout outputs in this project are synthetic portfolio constructs. They are not internal Snap data, Snap policy, or evidence about actual Snapchat production performance.
-
-## Dashboard Preview SnapShot
-<img src="image_assets/driii_snap_spotlight.png" alt="Project Screenshot" width="500">
-<img src="image_assets/driii_snap_spotlight1.png" alt="Project Screenshot" width="500">
-<img src="image_assets/driii_snap_spotlight2.jpg" alt="Project Screenshot" width="500">
