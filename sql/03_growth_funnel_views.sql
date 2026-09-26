@@ -1,5 +1,5 @@
 CREATE OR REPLACE VIEW `driiiportfolio.snap_spotlight_growth.vw_user_retention_experiment_summary` AS
-SELECT 
+SELECT
     user_id,
     experiment_group,
     cohort_date,
